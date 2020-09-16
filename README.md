@@ -1,2 +1,2 @@
 # PhoenixSim
-An open-source photonic simulation environment
+An open-source photonic-electronic co-simulation environment
